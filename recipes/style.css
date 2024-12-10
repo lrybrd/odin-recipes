@@ -1,5 +1,19 @@
 img {
     box-sizing: border-box;
-    width: 250px;
+    width: 300px;
     height: 250px;
+    display: block;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    background-color: lightblue;
+    padding: 8px;
+}
+
+.ingredients {
+    background-color: lightblue;
+    padding: 8px;
+    margin: 16px;
 }
